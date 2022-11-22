@@ -23,3 +23,5 @@ This project was made using [Jupyter Notebook](https://jupyter.org/). To be able
 While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook.
 
 We recommend using the [Anaconda](https://www.anaconda.com/) distribution to install Python and Jupyter. We’ll go through its installation in the next section.
+
+It is important that the file [requeriments.txt](https://github.com/mandorc/Vision-artificial-proyecto-final/blob/main/requeriments.txt) are also reviewed, where the libraries needed for its execution are shown, as well as the versions with which they were worked.
