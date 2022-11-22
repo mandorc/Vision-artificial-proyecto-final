@@ -10,7 +10,7 @@
 - Armando Rivera Castillo (168926)
 - Jesús Alejandro Romero Cota (166941)
 
-## Problem statement
+## Description of the project
 
 This project consist of recognizing ancient text written in Latin from images.
 
