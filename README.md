@@ -7,8 +7,8 @@
 **Semester:** Autumn 2022
 **University:** UDLAP
 **Members of the team:** 
-- Armando Rivera
-- Alejandro Romero
+- Armando Rivera Castillo (168926)
+- Jesús Alejandro Romero Cota (166941)
 
 ## Problem statement
 
